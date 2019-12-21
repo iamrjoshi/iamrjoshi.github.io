@@ -8,4 +8,4 @@ background: '/img/posts/06.jpg'
 
 ## Welcome
 
-This is my blog.
+> This is my blog.
