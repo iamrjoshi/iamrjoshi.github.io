@@ -69,3 +69,11 @@ theme: jekyll-theme-clean-blog
 sass:
   sass_dir: _sass
   style: compressed
+
+kramdown:
+  toc_levels: 2..3
+  input: GFM
+  hard_wrap: false
+  auto_ids: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
