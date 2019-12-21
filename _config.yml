@@ -18,18 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Rakesh Joshi
+email: iamrjoshi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-author: Start Bootstrap
+  I am a school student. I have recently started a blog.
+author: Rakesh Joshi
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
-facebook_username: StartBootstrap
+twitter_username: i_rjoshi
+github_username: iamrjoshi
+facebook_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
@@ -38,13 +36,13 @@ google_analytics: UA-XXXXXXXXX-X # out your google-analytics code
 # Build settings
 markdown: kramdown
 paginate: 3
-paginate_path: "/posts/:num/"
+paginate_path: "/posts/:num"
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-permalink: /:title/
+permalink: /:title
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
