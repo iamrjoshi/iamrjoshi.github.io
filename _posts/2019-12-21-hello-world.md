@@ -21,7 +21,7 @@ background: '/img/posts/06.jpg'
 
 ---
 
-# Keep Following iamrjoshi.github.io
+# Keep Following [iamrjoshi](https://iamrjoshi.github.io 'Iamrjoshi')
 
 ---
 
