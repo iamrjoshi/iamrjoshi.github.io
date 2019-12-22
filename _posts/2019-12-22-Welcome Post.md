@@ -12,8 +12,6 @@ background: /img/posts/08.jpg
 
 ## Let's Start
 
-<p>
-
 First things first this is a new website of mine.
 
 To know more about me go to [About](https://iamrjoshi.github.io/about 'KNOW MORE') section.
@@ -25,7 +23,3 @@ So stay turned for other posts.
 ## Any Queries ???
 
 ### **_Want the answers_** [Contact Me](https://iamrjoshi.github.io/contact '*Help Line*')
-
-</p>
-
-#### <p> Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
