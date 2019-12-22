@@ -22,8 +22,6 @@ So stay turned for other posts.
 
 </p>
 
-<!--
-
 <h2 class="section-heading">The Final Frontier</h2>
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
@@ -44,6 +42,5 @@ So stay turned for other posts.
 <p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
 
 <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
 
 <p> Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
