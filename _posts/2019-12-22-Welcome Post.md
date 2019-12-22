@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome Everyone
-subtitle: It's good to see you here.
+title: 'Welcome Everyone'
+subtitle: 'It's good to see you here.'
 date: 2019-12-22 23:45:13 +0545
 background: '/img/posts/08.jpg'
 ---
