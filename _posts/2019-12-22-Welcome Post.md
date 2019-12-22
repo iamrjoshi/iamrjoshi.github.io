@@ -9,7 +9,8 @@ background: '/img/posts/08.jpg'
 ## Hey What's Up <br> Everything is all right ?
 
 <br>
-Let's Start</Hey>
+
+## Let's Start
 
 <p>
 First things first this is a new website of mine.
