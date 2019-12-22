@@ -14,12 +14,12 @@ background: /img/posts/08.jpg
 
 <p>
 First things first this is a new website of mine.
-To know more about me go to [About] (https://iamrjoshi.github.io/about "KNOW MORE!!!")
+To know more about me go to [About](https://iamrjoshi.github.io/about "KNOW MORE")
 I will be posting other post in upcomming days
 So stay turned for other posts.
 
 #####Any queries ???
-**_Want the answers_** [Contact Me](https://iamrjoshi.github.io/contact ' *Help Line* ')
+**_Want the answers_** [Contact Me](https://iamrjoshi.github.io/contact '*Help Line*')
 
 </p>
 <p> Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
