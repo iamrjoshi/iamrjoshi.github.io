@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: 'Welcome Everyone'
 subtitle: 'It's good to see you here.'
