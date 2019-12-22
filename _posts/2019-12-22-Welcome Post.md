@@ -1,20 +1,26 @@
 ---
 layout: post
-title: 'Dinosaurs are extinct today'
-subtitle: 'because they lacked opposable thumbs and the brainpower to build a space program.'
-date: 2017-10-26 23:45:13 -0400
-background: '/img/posts/01.jpg'
+title: 'Welcome Everyone'
+subtitle: 'It's good to see you here.'
+date: 2019-12-22 23:45:13 -0400
+background: '/img/posts/08.jpg'
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<h2 class="section-heading"> Hey What's Up  <br> Everything is all right ?
+<br>
+Let's Start</h2>
+<p>
+First things first this is a new website of mine.
+To know more about me go to [About] (https://iamrjoshi.github.io/about "KNOW MORE!!!")
+I will be posting other post in upcomming days
+So stay turned for other posts.
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+#####Any queries ???
+**_Want the answers_** [Contact Me](https://iamrjoshi.github.io/contact ' *Help Line* ')
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
-
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<!--
 
 <h2 class="section-heading">The Final Frontier</h2>
 
@@ -37,4 +43,5 @@ background: '/img/posts/01.jpg'
 
 <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
+
+<p> Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>
