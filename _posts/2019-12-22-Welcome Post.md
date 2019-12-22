@@ -3,7 +3,7 @@ layout: post
 title: Welcome Everyone
 subtitle: It's good to see you here.
 date: 2019-12-21 23:45:13 +0545
-background: /img/posts/08.jpg
+background: '/img/posts/08.jpg'
 ---
 
 ## Hey What's Up <br> Everything is all right ?
@@ -21,10 +21,10 @@ So stay turned for other posts.
 **_Want the answers_** [Contact Me](https://iamrjoshi.github.io/contact ' *Help Line* ')
 
 </p>
-
+<!--
 <h2 class="section-heading">The Final Frontier</h2>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+<!--<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
