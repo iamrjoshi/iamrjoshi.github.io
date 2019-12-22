@@ -1,14 +1,17 @@
 ---
+
 layout: post
 title: 'Welcome Everyone'
 subtitle: 'It's good to see you here.'
-date: 2019-12-22 23:45:13 -0400
+date: 2019-12-21 23:45:13 +0545
 background: '/img/posts/08.jpg'
 ---
 
-<h2 class="section-heading"> Hey What's Up  <br> Everything is all right ?
+## Hey What's Up <br> Everything is all right ?
+
 <br>
-Let's Start</h2>
+Let's Start</Hey>
+
 <p>
 First things first this is a new website of mine.
 To know more about me go to [About] (https://iamrjoshi.github.io/about "KNOW MORE!!!")
